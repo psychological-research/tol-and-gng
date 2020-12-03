@@ -1,5 +1,6 @@
 ## Test-Retest Reliability and Factor Structure of the Tower of London and Go/No Go Computerized Tasks from the Psychology Experiment Building Language (PEBL) 
 
+This work is licensed under [CC BY 4.0 CC](https://creativecommons.org/licenses/by/4.0) 
 
 **Study 1** examined the reliability of a broad spectrum of indicators (Initial Time Thinking, ITT; Execution Time, ET; Full Time, FT; Extra Moves, EM; No Go Errors, NGE; Reaction Time for Go Responses, RTGR) across an eight-week delay in a sample of 21 young adults. Before analyses, the raw results of not normally distributed variables were transformed, and results were corrected for multiple comparisons and correlations.
 
